@@ -32,5 +32,6 @@ def calculator_function(num1, num2, operator):
     elif operator == 'Subtract': result = num1 - num2
     elif operator == 'Divide': result = num1/num2
     elif operator == 'Multiply': result = num1 * num2
+    st.success(f'Your result is **{result}**')
 
 
