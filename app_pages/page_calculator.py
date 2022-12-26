@@ -15,7 +15,7 @@ def calculator_body():
         num2 = st.number_input(label = 'enter the second integer', step = 2)
 
     with col3:
-        operator = st.select_box(label = 'select an operator', options= ['Add', 'Subtract', 'Divide', 'Multiply'])
+        operator = st.selectbox(label = 'select an operator', options= ['Add', 'Subtract', 'Divide', 'Multiply'])
 
     # add the logic
 
