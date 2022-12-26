@@ -10,3 +10,8 @@ vscode:
     - hookyqr.beautify
     - matt-rudge.auto-open-preview-panel
     - formulahendry.auto-close-tag
+    - ms-toolsai.jupyter-keymap
+    - ms-toolsai.jupyter
+    - ms-python.isort
+    - ms-toolsai.jupyter-renderers
+    - ms-toolsai.vscode-jupyter-cell-tags
