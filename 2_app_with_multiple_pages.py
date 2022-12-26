@@ -4,7 +4,7 @@ from app_pages.multi_page import MultiPage
 from app_pages.page1 import page1_body
 from app_pages.page2 import page2_body
 
-# Create an instance
+# Create an instance of a multi-page class
 app = MultiPage(app_name="This is my first multi-page Streamlit App")
 
 # Add your app pages here using .add_page()
